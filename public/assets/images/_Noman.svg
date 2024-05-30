@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 80" width="150" height="80">
+	<title>_Noman </title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 27px;fill: #ffffff;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<text id="" style="transform: matrix(1,0,0,1,0,0)" >
+	</text>
+	<text id=" &lt;Noman/&gt;" style="transform: matrix(1,0,0,1,0,0)" >
+		<tspan x="0" y="50.6" class="t0">&lt;</tspan><tspan  y="50.6" class="t0">N</tspan><tspan  y="50.6" class="t0">o</tspan><tspan  y="50.6" class="t0">m</tspan><tspan  y="50.6" class="t0">a</tspan><tspan  y="50.6" class="t0">n</tspan><tspan  y="50.6" class="t0">/</tspan><tspan  y="50.6" class="t0">&gt;
+</tspan>
+	</text>
+</svg>
